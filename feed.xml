@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-05-05T12:00:00+03:00</generation-date>
+
+  <!-- ==================== Клевер К1 ==================== -->
+  <!-- Координаты: 56.241799, 37.985867 -->
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>18</lot-number>
+    <cadastral-number>50:05:0050301:2981</cadastral-number>
+    <price>5690000</price>
+    <url>https://your-site.ru/apartment/18</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>18</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>19</lot-number>
+    <cadastral-number>50:05:0050301:2983</cadastral-number>
+    <price>5670000</price>
+    <url>https://your-site.ru/apartment/19</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>19</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>21</lot-number>
+    <cadastral-number>50:05:0050301:2985</cadastral-number>
+    <price>5890000</price>
+    <url>https://your-site.ru/apartment/21</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>21</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>33</lot-number>
+    <cadastral-number>50:05:0050301:2998</cadastral-number>
+    <price>10490000</price>
+    <url>https://your-site.ru/apartment/33</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>33</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>44</lot-number>
+    <cadastral-number>50:05:0050301:3010</cadastral-number>
+    <price>6390000</price>
+    <url>https://your-site.ru/apartment/44</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>44</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>45</lot-number>
+    <cadastral-number>50:05:0050301:3011</cadastral-number>
+    <price>6390000</price>
+    <url>https://your-site.ru/apartment/45</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>45</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>46</lot-number>
+    <cadastral-number>50:05:0050301:3012</cadastral-number>
+    <price>7790000</price>
+    <url>https://your-site.ru/apartment/46</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>46</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>51</lot-number>
+    <cadastral-number>50:05:0050301:3018</cadastral-number>
+    <price>5890000</price>
+    <url>https://your-site.ru/apartment/51</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>51</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>59</lot-number>
+    <cadastral-number>50:05:0050301:3027</cadastral-number>
+    <price>5890000</price>
+    <url>https://your-site.ru/apartment/59</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>59</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>61</lot-number>
+    <cadastral-number>50:05:0050301:3029</cadastral-number>
+    <price>5890000</price>
+    <url>https://your-site.ru/apartment/61</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>61</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>63</lot-number>
+    <cadastral-number>50:05:0050301:3031</cadastral-number>
+    <price>9890000</price>
+    <url>https://your-site.ru/apartment/63</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>63</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>67</lot-number>
+    <cadastral-number>50:05:0050301:3035</cadastral-number>
+    <price>6390000</price>
+    <url>https://your-site.ru/apartment/67</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>67</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>70</lot-number>
+    <cadastral-number>50:05:0050301:3039</cadastral-number>
+    <price>7790000</price>
+    <url>https://your-site.ru/apartment/70</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>70</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>88</lot-number>
+    <cadastral-number>50:05:0050301:3058</cadastral-number>
+    <price>8990000</price>
+    <url>https://your-site.ru/apartment/88</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>88</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>97</lot-number>
+    <cadastral-number>50:05:0050301:3068</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/97</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>97</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>107</lot-number>
+    <cadastral-number>50:05:0050301:2915</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/107</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>107</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>109</lot-number>
+    <cadastral-number>50:05:0050301:2918</cadastral-number>
+    <price>6090000</price>
+    <url>https://your-site.ru/apartment/109</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>109</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>112</lot-number>
+    <cadastral-number>50:05:0050301:2921</cadastral-number>
+    <price>8990000</price>
+    <url>https://your-site.ru/apartment/112</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>112</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>113</lot-number>
+    <cadastral-number>50:05:0050301:2922</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/113</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>113</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>115</lot-number>
+    <cadastral-number>50:05:0050301:2924</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/115</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>115</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>116</lot-number>
+    <cadastral-number>50:05:0050301:2925</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/116</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>116</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>117</lot-number>
+    <cadastral-number>50:05:0050301:2926</cadastral-number>
+    <price>6090000</price>
+    <url>https://your-site.ru/apartment/117</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>117</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>122</lot-number>
+    <cadastral-number>50:05:0050301:2932</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/122</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>122</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>123</lot-number>
+    <cadastral-number>50:05:0050301:2933</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/123</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>123</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>126</lot-number>
+    <cadastral-number>50:05:0050301:2936</cadastral-number>
+    <price>8550000</price>
+    <url>https://your-site.ru/apartment/126</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>126</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>129</lot-number>
+    <cadastral-number>50:05:0050301:2940</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/129</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>129</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>130</lot-number>
+    <cadastral-number>50:05:0050301:2941</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/130</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>130</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>131</lot-number>
+    <cadastral-number>50:05:0050301:2942</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/131</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>131</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>132</lot-number>
+    <cadastral-number>50:05:0050301:2943</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/132</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>132</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>135</lot-number>
+    <cadastral-number>50:05:0050301:2946</cadastral-number>
+    <price>4950000</price>
+    <url>https://your-site.ru/apartment/135</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>135</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>138</lot-number>
+    <cadastral-number>50:05:0050301:2948</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/138</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>138</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>139</lot-number>
+    <cadastral-number>50:05:0050301:2951</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/139</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>139</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>140</lot-number>
+    <cadastral-number>50:05:0050301:2952</cadastral-number>
+    <price>5090000</price>
+    <url>https://your-site.ru/apartment/140</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>140</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>142</lot-number>
+    <cadastral-number>50:05:0050301:2954</cadastral-number>
+    <price>8550000</price>
+    <url>https://your-site.ru/apartment/142</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Клевер, ул. Примерная, д. 1</address>
+      <apartment>142</apartment>
+      <latitude>56.241799</latitude>
+      <longitude>37.985867</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <!-- ==================== Майданово 30 ==================== -->
+  <!-- Координаты: 56.345031, 36.719055 -->
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>38</lot-number>
+    <cadastral-number>50:03:0010306:1754</cadastral-number>
+    <price>10225000</price>
+    <url>https://your-site.ru/apartment/38</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>38</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>47</lot-number>
+    <cadastral-number>50:03:0010306:1764</cadastral-number>
+    <price>10225000</price>
+    <url>https://your-site.ru/apartment/47</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>47</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>56</lot-number>
+    <cadastral-number>50:03:0010306:1774</cadastral-number>
+    <price>10225000</price>
+    <url>https://your-site.ru/apartment/56</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>56</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>65</lot-number>
+    <cadastral-number>50:03:0010306:1784</cadastral-number>
+    <price>10225000</price>
+    <url>https://your-site.ru/apartment/65</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>65</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>71</lot-number>
+    <cadastral-number>50:03:0010306:1791</cadastral-number>
+    <price>9750000</price>
+    <url>https://your-site.ru/apartment/71</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>71</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>74</lot-number>
+    <cadastral-number>50:03:0010306:1794</cadastral-number>
+    <price>10225000</price>
+    <url>https://your-site.ru/apartment/74</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>74</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>80</lot-number>
+    <cadastral-number>50:03:0010306:1801</cadastral-number>
+    <price>9750000</price>
+    <url>https://your-site.ru/apartment/80</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>80</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>81</lot-number>
+    <cadastral-number>50:03:0010306:1802</cadastral-number>
+    <price>8260000</price>
+    <url>https://your-site.ru/apartment/81</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>81</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>137</lot-number>
+    <cadastral-number>50:03:0010306:1696</cadastral-number>
+    <price>9350000</price>
+    <url>https://your-site.ru/apartment/137</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>137</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>146</lot-number>
+    <cadastral-number>50:03:0010306:1706</cadastral-number>
+    <price>9350000</price>
+    <url>https://your-site.ru/apartment/146</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>146</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>155</lot-number>
+    <cadastral-number>50:03:0010306:1716</cadastral-number>
+    <price>9350000</price>
+    <url>https://your-site.ru/apartment/155</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>155</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>161</lot-number>
+    <cadastral-number>50:03:0010306:1723</cadastral-number>
+    <price>10050000</price>
+    <url>https://your-site.ru/apartment/161</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 30</address>
+      <apartment>161</apartment>
+      <latitude>56.345031</latitude>
+      <longitude>36.719055</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <!-- ==================== Майданово 32 ==================== -->
+  <!-- Координаты: 56.345534, 36.721616 -->
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>11</lot-number>
+    <cadastral-number>50:03:0010306:1852</cadastral-number>
+    <price>9350000</price>
+    <url>https://your-site.ru/apartment/11</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>11</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>47</lot-number>
+    <cadastral-number>50:03:0010306:1940</cadastral-number>
+    <price>9350000</price>
+    <url>https://your-site.ru/apartment/47</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>47</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>72</lot-number>
+    <cadastral-number>50:03:0010306:1940</cadastral-number>
+    <price>8260000</price>
+    <url>https://your-site.ru/apartment/72</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>72</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>74</lot-number>
+    <cadastral-number>50:03:0010306:1970</cadastral-number>
+    <price>9350000</price>
+    <url>https://your-site.ru/apartment/74</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>74</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>146</lot-number>
+    <cadastral-number>50:03:0010306:1882</cadastral-number>
+    <price>9350000</price>
+    <url>https://your-site.ru/apartment/146</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>146</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>153</lot-number>
+    <cadastral-number>50:03:0010306:1890</cadastral-number>
+    <price>10180000</price>
+    <url>https://your-site.ru/apartment/153</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>153</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>155</lot-number>
+    <cadastral-number>50:03:0010306:1892</cadastral-number>
+    <price>9350000</price>
+    <url>https://your-site.ru/apartment/155</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>155</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>161</lot-number>
+    <cadastral-number>50:03:0010306:1899</cadastral-number>
+    <price>10250000</price>
+    <url>https://your-site.ru/apartment/161</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>161</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>89</lot-number>
+    <cadastral-number>50:03:0010306:1987</cadastral-number>
+    <price>10050000</price>
+    <url>https://your-site.ru/apartment/89</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>89</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>2</lot-number>
+    <cadastral-number>50:03:0010306:1920</cadastral-number>
+    <price>8390000</price>
+    <url>https://your-site.ru/apartment/2</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>2</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>8</lot-number>
+    <cadastral-number>50:03:0010306:1986</cadastral-number>
+    <price>9050000</price>
+    <url>https://your-site.ru/apartment/8</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>8</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+  <offer>
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <lot-number>83</lot-number>
+    <cadastral-number>50:03:0010306:1980</cadastral-number>
+    <price>8140000</price>
+    <url>https://your-site.ru/apartment/83</url>
+    <creation-date>2026-05-05T10:00:00+03:00</creation-date>
+    <location>
+      <address>Московская обл., Майданово, ул. Центральная, д. 32</address>
+      <apartment>83</apartment>
+      <latitude>56.345534</latitude>
+      <longitude>36.721616</longitude>
+    </location>
+    <phone>84951821426</phone>
+  </offer>
+
+</realty-feed>
